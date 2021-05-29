@@ -1,0 +1,5 @@
+(Get) -> /users (finds all user)
+(Post) -> /users (creates a user)
+(Get) -> /users/:id (finds user details)
+(Delete) -> /users/:id (deletes a user)
+(Patch) -> /users/:id (updates a user)
